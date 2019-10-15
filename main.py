@@ -36,3 +36,4 @@ if all_ochkos < 25:
   print("вы проиграли(")
 else:
   print("вы выиграли) ")
+  print("FUCK THAT SHIT!")
